@@ -1,6 +1,6 @@
 ### 贡献
 
-<img      src="https://streak-stats.demolab.com?user=danjuanyang&theme=radical&hide_border=false"      alt="GitHub Streak"      height="180"   />
+<img      src="https://streak-stats.demolab.com?user=danjuanyang&theme=radical&hide_border=false" />
 
 ### 活跃天数
 
