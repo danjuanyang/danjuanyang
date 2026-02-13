@@ -15,15 +15,13 @@
 ## 关于我
 
 - 当前方向：`AI 应用开发`、`工作流自动化`、`效率工具工程化`
-- 技术偏好：`Python`、`TypeScript`、`Node.js`
+- 技术偏好：`Python`、`TypeScript`
 - 目标风格：`先解决问题，再追求优雅实现`
 - 合作类型：`外包开发`、`技术协作`、`自动化方案咨询`
 
 ## GitHub 数据
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danjuanyang&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub 统计" />
-</p>
+
 <p>
   <img src="https://streak-stats.demolab.com?user=danjuanyang&theme=tokyonight&hide_border=true" alt="连续贡献天数" />
 </p>
