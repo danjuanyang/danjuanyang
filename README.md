@@ -1,8 +1,4 @@
-<h1 align="center">你好，我是 Danjuanyang</h1>
-<p align="center">
-  AI 应用开发 | 自动化工具落地 | Python / JavaScript / TypeScript
-</p>
-
+<h1 align="center">DJY</h1>
 
 <p align="center">
   <a href="mailto:danjuanyang@126.com">
@@ -11,13 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=danjuanyang&style=flat-square&color=0e75b6" alt="主页访问量" />
 </p>
 
-
-## 关于我
-
-- 当前方向：`AI 应用开发`、`工作流自动化`、`效率工具工程化`
-- 技术偏好：`Python`、`TypeScript`
-- 目标风格：`先解决问题，再追求优雅实现`
-- 合作类型：`外包开发`、`技术协作`、`自动化方案咨询`
 
 ## GitHub 数据
 
@@ -39,13 +28,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
-
-## 我能做什么
-
-- AI 工具接入与自动化流程搭建（如数据处理、批量任务、报表生成）
-- Web 小型系统开发（管理后台、内部工具、数据可视化页面）
-- 现有脚本和项目重构（提速、稳定性优化、可维护性提升）
 
 ## 联系方式
 
