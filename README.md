@@ -14,6 +14,11 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=danjuanyang&theme=tokyonight&hide_border=true" alt="连续贡献天数" />
 </p>
+
+<p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/danjuanyang?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+</p>
+
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danjuanyang&theme=tokyo-night&hide_border=true&area=true" alt="活跃度趋势" />
 </p>
