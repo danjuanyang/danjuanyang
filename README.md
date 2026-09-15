@@ -12,11 +12,11 @@
 
 
 <p>
-(https://github-stats-extended.vercel.app/api?username=danjuanyang&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danjuanyang)
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danjuanyang&theme=tokyo-night&hide_border=true&area=true" alt="活跃度趋势" />
+   https://github-stats-extended.vercel.app/api?username=danjuanyang&theme=radical
 </p>
 
 
