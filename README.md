@@ -12,11 +12,11 @@
 
 
 <p>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=danjuanyang)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 <p>
-   https://github-stats-extended.vercel.app/api?username=danjuanyang&theme=radical
+   [danjuanuyang](https://github-stats-extended.vercel.app/api?username=danjuanyang&theme=radical)
 </p>
 
 
