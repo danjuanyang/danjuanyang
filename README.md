@@ -12,7 +12,7 @@
 
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=danjuanyang&theme=tokyonight&hide_border=true" alt="连续贡献天数" />
+ <img src="https://streak-stats.demolab.com?user=danjuanyang&theme=tokyonight&hide_border=true" alt="连续贡献天数" />](https://github-stats-extended.vercel.app/api?username=danjuanyang&theme=radical)
 </p>
 
 <p>
