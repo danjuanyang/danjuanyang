@@ -7,6 +7,21 @@
   <img src="https://komarev.com/ghpvc/?username=danjuanyang&style=flat-square&color=0e75b6" alt="主页访问量" />
 </p>
 
+---------------
+
+## 技术栈
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 联系方式
+
+- 邮箱：**danjuanyang@126.com**
 
 -----------
 
@@ -70,29 +85,4 @@
 
 <br/>
 
-<sub>⭐ 如果这个主页让你多看了两眼，点个 Star 就是最大的认可。</sub>
-
 </div>
-
-
-
-
-
-
-
-
----------------
-
-## 技术栈
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## 联系方式
-
-- 邮箱：**danjuanyang@126.com**
