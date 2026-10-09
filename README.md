@@ -34,26 +34,6 @@
 
 </div>
 
-<details>
-<summary><b>🔍 展开：我的开发哲学（点击展开）</b></summary>
-<br/>
-
-
-> **1. 可读性是第一性能指标。**
-> 代码被读的次数是被写次数的十倍，写给下一个人（通常是三个月后的自己）。
->
-> **2. 抽象要迟到，不要早到。**
-> 三次重复才配拥有抽象，两次只是巧合。
->
-> **3. 边界决定架构。**
-> 模块之间怎么说话，比模块内部怎么干活重要一百倍。
->
-> **4. 别和框架对抗。**
-> 顺着数据流走，你省下的力气够再造一个特性。
-
-</details>
-
----
 
 ## 📊 我的 GitHub 数据面板
 
@@ -73,79 +53,9 @@
 
 </div>
 
----
 
-## 🚀 精选项目
-
-<div align="center">
-
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
-### 🧩 project-name-01
-
-**一句话说清它解决了什么**
-
-一个用 Next.js 14 + Tailwind 搭建的高性能应用，首屏 LCP < 1.2s，Lighthouse 四项全绿。
-
-`TypeScript` `Next.js` `TailwindCSS` `Zustand`
-
-[🔗 在线体验](https://example.com) · [📦 源码](https://github.com/danjuanyang/project-name-01)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 project-name-02
-
-**一句话说清它解决了什么**
-
-从 0 到 1 的全栈项目，Node + PostgreSQL 打底，Docker 一键起服，日均处理请求 10w+。
-
-`Node.js` `PostgreSQL` `Docker` `Prisma`
-
-[🔗 在线体验](https://example.com) · [📦 源码](https://github.com/danjuanyang/project-name-02)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 💡 **替换提示**：把项目名、描述、技术栈、链接换成你自己的，两列可以自由增删。
 
 ---
-
-## 📈 我现在在忙什么
-
-<div align="center">
-
-
-```text
-🎯  正在造      —— 一个让自己爽到的小工具（代号：尚未公开）
-📚  正在啃      —— 《Designing Data-Intensive Applications》第 3 遍
-🔥  正在练      —— Rust + WebAssembly，想在前端跑点真正快的东西
-💭  正在想      —— 前端的下一個十年，AI 会把它变成什么样
-```
-
-</div>
-
----
-
-## 📫 找到我
-
-<div align="center">
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-39FF14?style=for-the-badge&logo=hashnode&logoColor=black)](https://example.com)
-[![掘金](https://img.shields.io/badge/掘金-1E80FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn)
-[![知乎](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://zhihu.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danjuanyang)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
-
-
-</div>
 
 <div align="center">
 
