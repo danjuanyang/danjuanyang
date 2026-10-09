@@ -31,43 +31,6 @@
 
 </div>
 
----
-
-## 🧬 关于我
-
-一个把**代码写得像诗、把界面调得像工艺品**的前端工程师。
-
-- 🌱 目前死磕 **React 18 并发特性** 与 **Next.js App Router** 的边界优化
-- ⚡ 信仰：**性能就是体验**，60fps 是底线不是天花板
-- 🛠 全栈通吃 —— 从 `useState` 到 `nginx.conf`，中间没有我不敢碰的层
-- 🧠 喜欢把复杂系统拆成能画在一张纸上的结构图
-- 🎯 现在是深夜最清醒的那批人之一
-
-```text
-$ whoami
-> danjuanyang — 前端工程师 / 全栈 Builder
-$ cat philosophy.txt
-> 先让它跑起来，再让它跑得漂亮，最后让它跑得快。
-```
-
----
-
-## 🛠 技术军火库
-
-<div align="center">
-
-
-| 领域         | 主战装备                                         | 状态   |
-| :----------- | :----------------------------------------------- | :----- |
-| **语言**     | TypeScript · JavaScript · HTML5 · CSS3           | 🟢 主力 |
-| **框架**     | React 18 · Next.js 14 · Vue 3 · Nuxt             | 🟢 主力 |
-| **样式**     | TailwindCSS · Sass · CSS Modules · Framer Motion | 🟢 主力 |
-| **状态管理** | Zustand · Redux Toolkit · TanStack Query         | 🟢 主力 |
-| **后端**     | Node.js · Express · NestJS · Prisma              | 🟡 熟练 |
-| **数据**     | PostgreSQL · Redis · MongoDB                     | 🟡 熟练 |
-| **工程化**   | Vite · Webpack · pnpm · ESLint · CI/CD           | 🟢 主力 |
-| **部署**     | Docker · Vercel · Nginx · GitHub Actions         | 🟡 熟练 |
-| **可视化**   | ECharts · D3.js · Recharts                       | 🔵 在练 |
 
 </div>
 
